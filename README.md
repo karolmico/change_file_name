@@ -1,4 +1,4 @@
-Change file name
+# Change files names
 
 This Python script provides a graphical user interface (GUI) for renaming multiple files within a selected folder. The program utilizes the Tkinter module to create the GUI, and the os and filedialog modules to interact with the operating system and select the folder.
 
